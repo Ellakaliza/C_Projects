@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708392730 source:c:\users\ellak\onedrive\desktop\c files\comp348a1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
